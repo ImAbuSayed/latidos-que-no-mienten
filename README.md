@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-que-no-mienten/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Latidos que no mienten](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-que-no-mienten/) |
+| **Get License** | [Get a Licensing Quote for Latidos que no mienten](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-que-no-mienten/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime, nena, si esta noche te vienes conmigo a volar
+> Latidos que no mienten, yo te quiero devorar
+> Con ese vestido negro, you know you're looking so fine
+> Tu mirada me provoca, baby, say that you are mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
