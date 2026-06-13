@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos que no mienten
+
+This log tracks the cryptographic history and versioning for the song **Latidos que no mienten** (latidos-que-no-mienten).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:50:27.961008 | `v1` | `b0523b99461add134c054a82457c77725678b00d96b06bc8dba63f8a334dc010` | `2eadf6c4e4a9857691add9f8b9ab7c83434a83b6dcd5e1d30207dc7148a3bcf4` | `2026-06-14_latidos-que-no-mienten-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
